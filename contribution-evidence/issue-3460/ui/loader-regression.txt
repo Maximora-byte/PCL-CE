@@ -1,0 +1,2 @@
+Loader refresh: 36 passed, 0 failed
+Note: the first attempt hit the existing 5000 ms fixture guard; an unchanged retry produced the result above. The interrupted attempt was not counted as a pass.

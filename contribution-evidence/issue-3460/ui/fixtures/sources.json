@@ -1,0 +1,10 @@
+{
+  "manifest.json": "https://launchermeta.mojang.com/mc/game/version_manifest.json",
+  "cleanroom.json": "https://api.github.com/repos/CleanroomMC/Cleanroom/releases",
+  "legacyfabric.json": "https://meta.legacyfabric.net/v2/versions",
+  "legacyapi.json": "https://api.modrinth.com/v2/project/legacy-fabric-api/version?include_changelog=false",
+  "legacyapi-project.json": "https://api.modrinth.com/v2/project/legacy-fabric-api",
+  "legacyapi-deps.json": "https://api.modrinth.com/v2/projects?ids=%5B%22EHGtwpJv%22%5D",
+  "1.12.2.json": "https://piston-meta.mojang.com/v1/packages/832d95b9f40699d4961394dcf6cf549e65f15dc5/1.12.2.json",
+  "1.8.9.json": "https://piston-meta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
+}

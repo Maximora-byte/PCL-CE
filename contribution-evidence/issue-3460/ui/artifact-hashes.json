@@ -1,0 +1,118 @@
+[
+  {
+    "file": "baseline-build-summary.txt",
+    "sha256": "F3A65FA08CA9EFC2903A79466E0A9EF3B77057CE1E3154C9C1895D3C21845948"
+  },
+  {
+    "file": "binary-hashes.json",
+    "sha256": "1689B49A0A443E229A1B2732190E026F8F4921AAF68F39EE51CFEC97C3C53ECB"
+  },
+  {
+    "file": "launch.ps1",
+    "sha256": "EBA2EA836D41FB5D2060D284EBB555FBE66735DCC987C7CFBF85A509208100E5"
+  },
+  {
+    "file": "loader-regression.txt",
+    "sha256": "30236F657BAA79FA8AC1114A724A7937B1931E3B52F689DFE98D9BF5FEAB2669"
+  },
+  {
+    "file": "observations.json",
+    "sha256": "1011ECB463CFC1114DEE7DCFC46167B1C73E81B0B638AF0CCCB909159260F0B8"
+  },
+  {
+    "file": "patched-build-summary.txt",
+    "sha256": "1BE17A6B09C3BFE4167530CEF94357967F21822671C670BA8591A7D0294F8731"
+  },
+  {
+    "file": "prepare.ps1",
+    "sha256": "8882884361E158BB538324D5777717631A9C573D369AD7BC9E4274766E7595D7"
+  },
+  {
+    "file": "README.md",
+    "sha256": "4558F04B5EB38F35FD53DB5E1F0E77BD05C0CA99A0A4ABB4A224CBD7734EFC78"
+  },
+  {
+    "file": "StartupHook.cs",
+    "sha256": "E91B58A6BABEDBFD4F9BF43FD198FEFC621ED220E6A41C1551A75151E8910E15"
+  },
+  {
+    "file": "target-requests.jsonl",
+    "sha256": "C0A3D2985352EC5CB99785EDA3C015DE27BEAFF108E269B4DF2163A4E9D94864"
+  },
+  {
+    "file": "UiHook.csproj",
+    "sha256": "0C13680F91D78FB4A176809DECB7B358A549517D17F315710FC4B53A6FFEFB8A"
+  },
+  {
+    "file": "fixtures/1.12.2.json",
+    "sha256": "56DAC2E1CAA872D7E37A7B5523056CD812DCA94F912AD2BD652817BEE60EDCA4"
+  },
+  {
+    "file": "fixtures/1.8.9.json",
+    "sha256": "341AF5F47A6B5BC137BFE681F4F3533E081041290AABBF9D7EBEAE9881DE768F"
+  },
+  {
+    "file": "fixtures/cleanroom.json",
+    "sha256": "A9983AF073785E3BC35BC9D656FB8FC913CBB7AEBB23814911EA576521A2B9C6"
+  },
+  {
+    "file": "fixtures/legacyapi-deps.json",
+    "sha256": "5F70DBC28579393D38F94327DB1744887724CF60F41CA0B0AD14346D5527F245"
+  },
+  {
+    "file": "fixtures/legacyapi-project.json",
+    "sha256": "37D1DF9FD55A5DF7690BF7E85FA515BA28B7453633568F83C07818F3544B6E67"
+  },
+  {
+    "file": "fixtures/legacyapi.json",
+    "sha256": "A2FCCA5F99939CF9ABAD46E5EF6501986438A7C20307721DF0EE7081211A742D"
+  },
+  {
+    "file": "fixtures/legacyfabric.json",
+    "sha256": "2CB33B9EE16DAEECFDEEBFBDFDA793B11E781955BA7F4687CBD0815C61834E85"
+  },
+  {
+    "file": "fixtures/manifest.json",
+    "sha256": "0DD2031A316FB4EA25B66534FDC5197089F3AF895A4E63EF1A1EDF4E1B781020"
+  },
+  {
+    "file": "fixtures/sources.json",
+    "sha256": "1FD7E0F97B79332501C7695A66A6C2515BCBB43E50C8EDFCB999A6890F3651C1"
+  },
+  {
+    "file": "screenshots/baseline-after-refresh.png",
+    "sha256": "EC50A54AA59C96C862BEEC327DC4A7BF64AC8A4554D839C38BA6F147CCE9B08C"
+  },
+  {
+    "file": "screenshots/baseline-api-after-refresh.png",
+    "sha256": "3BAB2F9F747C072F26B6A9701D55650CA5976C500F79E0AD75D9B4D5CB869AB6"
+  },
+  {
+    "file": "screenshots/baseline-api-timeout.png",
+    "sha256": "BDE02793835A6FB4CE9E32A079919CA206D37E393FC9EC9015E6500194765BC9"
+  },
+  {
+    "file": "screenshots/baseline-initial-timeout.png",
+    "sha256": "230E611A5BBDD02AD1191B91D1F3354616B9A9ECFF2E4B0C0C663C932D616F71"
+  },
+  {
+    "file": "screenshots/patched-after-refresh.png",
+    "sha256": "F313298A147CF5731FC8916AB69EDC2FB0D55C69597B5B093B249141562CD77A"
+  },
+  {
+    "file": "screenshots/patched-api-restored.png",
+    "sha256": "E6AE86AE85B16327C1A8E9C42F70782982B5F48E174B5D61591E14173991D0A0"
+  },
+  {
+    "file": "screenshots/patched-cleanroom-list.png",
+    "sha256": "EA0B67A3AEF107BC030553EC360F2E6F09209412C330E956BD064ECDC6773B99"
+  },
+  {
+    "file": "screenshots/patched-initial-timeout.png",
+    "sha256": "70669A5E3CE21491232244EA95C8A8A7BD984F8EE00AB73A6F6DFBA20507ABA2"
+  },
+  {
+    "file": "screenshots/patched-legacyfabric-list.png",
+    "sha256": "314F26C32620C297B1B0754F281E825F97EB57FFD4A4AD82EE38A3736AAC5C32"
+  }
+]

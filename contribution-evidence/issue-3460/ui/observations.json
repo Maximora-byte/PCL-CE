@@ -1,0 +1,119 @@
+[
+  {
+    "case": "baseline-all-timeout",
+    "before": {
+      "utc": "2026-10-23T13:33:25.9840113Z",
+      "phase": "before-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 1
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 8
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 1
+        }
+      ]
+    },
+    "after": {
+      "utc": "2026-10-23T13:33:41.3831575Z",
+      "phase": "after-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 1
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 8
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 1
+        }
+      ]
+    }
+  },
+  {
+    "case": "patched-all-timeout",
+    "before": {
+      "utc": "2026-10-23T13:40:17.503545Z",
+      "phase": "before-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 1
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 8
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 1
+        }
+      ]
+    },
+    "after": {
+      "utc": "2026-10-23T13:40:30.9193654Z",
+      "phase": "after-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 2
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 9
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 2
+        }
+      ]
+    }
+  },
+  {
+    "case": "baseline-api-timeout",
+    "before": {
+      "utc": "2026-10-23T13:43:41.6587849Z",
+      "phase": "api-before-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 1
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 8
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 1
+        }
+      ]
+    },
+    "after": {
+      "utc": "2026-10-23T13:43:56.0690973Z",
+      "phase": "api-after-refresh",
+      "counts": [
+        {
+          "Name": "cleanroom.json",
+          "Count": 1
+        },
+        {
+          "Name": "legacyapi.json",
+          "Count": 8
+        },
+        {
+          "Name": "legacyfabric.json",
+          "Count": 1
+        }
+      ]
+    }
+  }
+]
